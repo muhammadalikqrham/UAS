@@ -1,0 +1,358 @@
+[
+    {
+        "id" : "1",
+        "pekerjaan" : "Belum/Tidak Bekerja"
+    },
+    {
+        "id" : "2",
+        "pekerjaan" : "IRT"
+    },
+    {
+        "id" : "3",
+        "pekerjaan" : "Pelajar/Mahasiswa"
+    },
+    {
+        "id" : "4",
+        "pekerjaan" : "Pensiunan"
+    },
+    {
+        "id" : "5",
+        "pekerjaan" : "Pegawai Negeri Sipil"
+    },
+    {
+        "id" : "6",
+        "pekerjaan" : "Tentara Nasional Indonesia"
+    },
+    {
+        "id" : "7",
+        "pekerjaan" : "Kepoilisian RI"
+    },
+    {
+        "id" : "8",
+        "pekerjaan" : "Perdagangan"
+    },
+    {
+        "id" : "9",
+        "pekerjaan" : "Petani/Pekebun"
+    },
+    {
+        "id" : "10",
+        "pekerjaan" : "Peternak"
+    },
+    {
+        "id" : "11",
+        "pekerjaan" : "Nelayan/Perikanan"
+    },
+    {
+        "id" : "12",
+        "pekerjaan" : "Industri"
+    },
+    {
+        "id" : "13",
+        "pekerjaan" : "Konstruksi"
+    },
+    {
+        "id" : "14",
+        "pekerjaan" : "Transportasi"
+    },
+    {
+        "id" : "15",
+        "pekerjaan" : "Karyawan Swasta"
+    },
+    {
+        "id" : "16",
+        "pekerjaan" : "Karyawan BUMN"
+    },
+    {
+        "id" : "17",
+        "pekerjaan" : "Karyawan BUMD"
+    },
+    {
+        "id" : "18",
+        "pekerjaan" : "Karyawan Honorer"
+    },
+    {
+        "id" : "19",
+        "pekerjaan" : "Buruh Harian Lepas"
+    },
+    {
+        "id" : "20",
+        "pekerjaan" : "Buruh Tani/Perkebunan"
+    },
+    {
+        "id" : "21",
+        "pekerjaan" : "Buruh Nelayan/Perikanan"
+    },
+    {
+        "id" : "22",
+        "pekerjaan" : "Buruh Peternakan"
+    },
+    {
+        "id" : "23",
+        "pekerjaan" : "ART"
+    },
+    {
+        "id" : "24",
+        "pekerjaan" : "Tukang Cukur"
+    },
+    {
+        "id" : "25",
+        "pekerjaan" : "Tukang Listrik"
+    },
+    {
+        "id" : "26",
+        "pekerjaan" : "Tukang Batu"
+    },
+    {
+        "id" : "27",
+        "pekerjaan" : "Tukang Kayu"
+    },
+    {
+        "id" : "28",
+        "pekerjaan" : "Tukang Sol Sepatu"
+    },
+    {
+        "id" : "29",
+        "pekerjaan" : "Tukang Las/Pandai Besi"
+    },
+    {
+        "id" : "30",
+        "pekerjaan" : "Tukang Jahit"
+    },
+    {
+        "id" : "31",
+        "pekerjaan" : "Tukang Gigi"
+    },
+    {
+        "id" : "32",
+        "pekerjaan" : "Penata Rias"
+    },
+    {
+        "id" : "33",
+        "pekerjaan" : "Penata Busana"
+    },
+    {
+        "id" : "34",
+        "pekerjaan" : "Penata Rambut"
+    },
+    {
+        "id" : "35",
+        "pekerjaan" : "Mekanik"
+    },
+    {
+        "id" : "36",
+        "pekerjaan" : "Seniman"
+    },
+    {
+        "id" : "37",
+        "pekerjaan" : "Tabib"
+    },
+    {
+        "id" : "38",
+        "pekerjaan" : "Paraji"
+    },
+    {
+        "id" : "39",
+        "pekerjaan" : "Perancang Busana"
+    },
+    {
+        "id" : "40",
+        "pekerjaan" : "Penterjemah"
+    },
+    {
+        "id" : "41",
+        "pekerjaan" : "Imam Mesjid"
+    },
+    {
+        "id" : "42",
+        "pekerjaan" : "Pendeta"
+    },
+    {
+        "id" : "43",
+        "pekerjaan" : "Pastor"
+    },
+    {
+        "id" : "44",
+        "pekerjaan" : "Wartawan"
+    },
+    {
+        "id" : "45",
+        "pekerjaan" : "Ustadz/Mubaligh"
+    },
+    {
+        "id" : "46",
+        "pekerjaan" : "Juru Masak"
+    },
+    {
+        "id" : "47",
+        "pekerjaan" : "Promotor Acara"
+    },
+    {
+        "id" : "48",
+        "pekerjaan" : "Anggota DPR-RI"
+    },
+    {
+        "id" : "49",
+        "pekerjaan" : "Anggota DPD"
+    },
+    {
+        "id" : "50",
+        "pekerjaan" : "Anggota BPK"
+    },
+    {
+        "id" : "51",
+        "pekerjaan" : "Presiden"
+    },
+    {
+        "id" : "52",
+        "pekerjaan" : "Wakil Presiden"
+    },
+    {
+        "id" : "53",
+        "pekerjaan" : "Anggota Mahkamah Konstitusi"
+    },
+    {
+        "id" : "54",
+        "pekerjaan" : "Anggota Kabinet Kementrian"
+    },
+    {
+        "id" : "55",
+        "pekerjaan" : "Duta Besar"
+    },
+    {
+        "id" : "56",
+        "pekerjaan" : "Gubernur"
+    },
+    {
+        "id" : "57",
+        "pekerjaan" : "Wakil Gubernur"
+    },
+    {
+        "id" : "58",
+        "pekerjaan" : "Bupati"
+    },
+    {
+        "id" : "59",
+        "pekerjaan" : "Wakil Bupati"
+    },
+    {
+        "id" : "60",
+        "pekerjaan" : "Walikota"
+    },
+    {
+        "id" : "61",
+        "pekerjaan" : "Wakil Walikota"
+    },
+    {
+        "id" : "62",
+        "pekerjaan" : "Anggota DPRD Provinsi"
+    },
+    {
+        "id" : "63",
+        "pekerjaan" : "Anggota DPRD Kabupaten/Kota"
+    },
+    {
+        "id" : "64",
+        "pekerjaan" : "Dosen"
+    },
+    {
+        "id" : "65",
+        "pekerjaan" : "Guru"
+    },
+    {
+        "id" : "66",
+        "pekerjaan" : "Pilot"
+    },
+    {
+        "id" : "67",
+        "pekerjaan" : "Pengacara"
+    },
+    {
+        "id" : "68",
+        "pekerjaan" : "Notaris"
+    },
+    {
+        "id" : "69",
+        "pekerjaan" : "Arsitek"
+    },
+    {
+        "id" : "70",
+        "pekerjaan" : "Akuntan"
+    },
+    {
+        "id" : "71",
+        "pekerjaan" : "Konsultan"
+    },
+    {
+        "id" : "72",
+        "pekerjaan" : "Dokter"
+    },
+    {
+        "id" : "73",
+        "pekerjaan" : "Bidan"
+    },
+    {
+        "id" : "74",
+        "pekerjaan" : "Perawat"
+    },
+    {
+        "id" : "75",
+        "pekerjaan" : "Apoteker"
+    },
+    {
+        "id" : "76",
+        "pekerjaan" : "Psikiater/Psikolog"
+    },
+    {
+        "id" : "77",
+        "pekerjaan" : "Penyiar Televisi"
+    },
+    {
+        "id" : "78",
+        "pekerjaan" : "Penyiar Radio"
+    },
+    {
+        "id" : "79",
+        "pekerjaan" : "Pelaut"
+    },
+    {
+        "id" : "80",
+        "pekerjaan" : "Peneliti"
+    },
+    {
+        "id" : "81",
+        "pekerjaan" : "Sopir"
+    },
+    {
+        "id" : "82",
+        "pekerjaan" : "Pialang"
+    },
+    {
+        "id" : "83",
+        "pekerjaan" : "Paranormal"
+    },
+    {
+        "id" : "84",
+        "pekerjaan" : "Pedagang"
+    },
+    {
+        "id" : "85",
+        "pekerjaan" : "Perangkat Desa"
+    },
+    {
+        "id" : "86",
+        "pekerjaan" : "Kepala Desa"
+    },
+    {
+        "id" : "87",
+        "pekerjaan" : "Biarawati"
+    },
+    {
+        "id" : "88",
+        "pekerjaan" : "Wiraswasta"
+    },
+    {
+        "id" : "89",
+        "pekerjaan" : "Lainnya"
+    }
+]
